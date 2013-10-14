@@ -1,1 +1,6 @@
 .vagrant
+hadoop-example/.settings
+hadoop-example/.project
+hadoop-example/.classpath
+hadoop-example/data/wordcount-output
+wordcount_classes
